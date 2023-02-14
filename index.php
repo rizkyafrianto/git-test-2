@@ -9,5 +9,9 @@
 <body>
     <h1>Hello Wordl!</h1>
     <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Rem dolorum quasi laboriosam totam sequi reiciendis odit, distinctio sunt similique magni a accusamus non hic perferendis odio iusto alias corrupti vitae.</p>
+    <ul>
+        <li>satu</li>
+        <li>dua</li>
+    </ul>
 </body>
 </html>
